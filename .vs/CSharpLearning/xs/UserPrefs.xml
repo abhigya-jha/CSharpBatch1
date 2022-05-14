@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{83947939-DEB6-4EEA-9ADB-016C6EBAB906}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSharpLearning/FunctionExample.cs">
+    <Files>
+      <File FileName="CSharpLearning/Program.cs" Line="15" Column="32" />
+      <File FileName="CSharpLearning/OneDArray.cs" />
+      <File FileName="CSharpLearning/FunctionExample.cs" Line="17" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSharpLearning" expanded="True" selected="True">
+            <Node name="CSharpLearning" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CSharpLearning PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
