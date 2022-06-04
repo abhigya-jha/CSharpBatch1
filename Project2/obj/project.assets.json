@@ -1,0 +1,88 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "CSharpLearning/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/CSharpLearning.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CSharpLearning.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CSharpLearning/1.0.0": {
+      "type": "project",
+      "path": "../CSharpLearning/CSharpLearning.csproj",
+      "msbuildProject": "../CSharpLearning/CSharpLearning.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "CSharpLearning >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/abhigyajha/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/abhigyajha/Projects/CSharpLearning/Project2/Project2.csproj",
+      "projectName": "Project2",
+      "projectPath": "/Users/abhigyajha/Projects/CSharpLearning/Project2/Project2.csproj",
+      "packagesPath": "/Users/abhigyajha/.nuget/packages/",
+      "outputPath": "/Users/abhigyajha/Projects/CSharpLearning/Project2/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/abhigyajha/.config/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/Users/abhigyajha/Projects/CSharpLearning/CSharpLearning/CSharpLearning.csproj": {
+              "projectPath": "/Users/abhigyajha/Projects/CSharpLearning/CSharpLearning/CSharpLearning.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/x64/sdk/6.0.104/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

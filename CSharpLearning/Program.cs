@@ -1,27 +1,38 @@
 ﻿using System;
+using CSharpLearning.People;//importing the Person class from People namespace
+using CSharpLearning.Vehicle;
+
+
 
 namespace CSharpLearning
 {
     class Program
     {
-        static void Main(string[] args)
+
+        int i = 10;//instance variable
+        static int j = 20;//static variable
+
+        bool c;//instance variable
+
+        readonly int k =100;
+
+        /*static void Main(string[] args)
         {
+            // Program p = new Program();
+            //Console.WriteLine("value of i: "+i);//
+            //LocalVariableExample obj = new LocalVariableExample();
+            //obj.print();
+            //TwoDArray obj = new TwoDArray();
+            // obj.TwoDArrayExample();
 
-            /*FunctionWithReturn obj = new FunctionWithReturn();
-            Console.WriteLine("Please enter a integer value");
-            int num = Convert.ToInt32(Console.ReadLine());
-            obj.printEvenOrOdd(num);*/
+            Person p = new Person();
+            p.display();
 
-            CallByValueVsCallByReference obj = new CallByValueVsCallByReference();
-            int num = 10;//original value
-            Console.WriteLine("Original Value before calling the function: "+num);
-           // obj.doubleANumber(num);
-            obj.doubleANumberByReference(ref num);
-            Console.WriteLine("Original Value after calling the function: " + num);
-
+            Car c = new Car();
 
 
 
-        }
+
+        }*/
     }
 }

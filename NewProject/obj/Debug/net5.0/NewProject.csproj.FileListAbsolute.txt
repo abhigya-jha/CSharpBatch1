@@ -1,0 +1,17 @@
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/obj/Debug/net5.0/NewProject.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/obj/Debug/net5.0/NewProject.AssemblyInfoInputs.cache
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/obj/Debug/net5.0/NewProject.AssemblyInfo.cs
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/obj/Debug/net5.0/NewProject.csproj.CoreCompileInputs.cache
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/bin/Debug/net5.0/CSharpLearning.deps.json
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/bin/Debug/net5.0/CSharpLearning.runtimeconfig.json
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/bin/Debug/net5.0/CSharpLearning.runtimeconfig.dev.json
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/bin/Debug/net5.0/NewProject.deps.json
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/bin/Debug/net5.0/NewProject.runtimeconfig.json
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/bin/Debug/net5.0/NewProject.runtimeconfig.dev.json
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/bin/Debug/net5.0/NewProject.dll
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/bin/Debug/net5.0/ref/NewProject.dll
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/bin/Debug/net5.0/NewProject.pdb
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/obj/Debug/net5.0/NewProject.dll
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/obj/Debug/net5.0/ref/NewProject.dll
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/obj/Debug/net5.0/NewProject.pdb
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/obj/Debug/net5.0/NewProject.genruntimeconfig.cache

@@ -6,11 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="People\" />
-    <None Remove="Vehicle\" />
-  </ItemGroup>
-  <ItemGroup>
-    <Folder Include="People\" />
-    <Folder Include="Vehicle\" />
+    <ProjectReference Include="..\CSharpLearning\CSharpLearning.csproj" />
   </ItemGroup>
 </Project>
