@@ -1,15 +1,8 @@
 ﻿<Properties StartupConfiguration="{83947939-DEB6-4EEA-9ADB-016C6EBAB906}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="NewProject/ConstructorExamples/Sample.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="NewProject/OverloadingExamples/Child.cs">
     <Files>
-      <File FileName="NewProject/inheritanceExamples/Animal.cs" Line="4" Column="24" />
-      <File FileName="NewProject/inheritanceExamples/Dog.cs" Line="4" Column="47" />
-      <File FileName="NewProject/inheritanceExamples/BullDog.cs" Line="11" Column="1" />
-      <File FileName="NewProject/inheritanceExamples/BMW.cs" Line="1" Column="1" />
-      <File FileName="NewProject/inheritanceExamples/Chair.cs" Line="8" Column="10" />
-      <File FileName="NewProject/inheritanceExamples/Audi.cs" Line="1" Column="1" />
-      <File FileName="NewProject/inheritanceExamples/Base.cs" Line="1" Column="1" />
-      <File FileName="NewProject/inheritanceExamples/Child.cs" Line="15" Column="12" />
-      <File FileName="NewProject/ConstructorExamples/Sample.cs" Line="1" Column="1" />
+      <File FileName="NewProject/OverloadingExamples/Parent.cs" Line="1" Column="1" />
+      <File FileName="NewProject/OverloadingExamples/Child.cs" Line="11" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -19,9 +12,11 @@
               <Node name="Vehicle" expanded="True" />
             </Node>
             <Node name="NewProject" expanded="True">
-              <Node name="ConstructorExamples" expanded="True">
-                <Node name="Sample.cs" selected="True" />
+              <Node name="ConstructorExamples" expanded="True" />
+              <Node name="OverloadingExamples" expanded="True">
+                <Node name="Child.cs" selected="True" />
               </Node>
+              <Node name="OverridingExamples" expanded="True" />
             </Node>
           </Node>
         </State>

@@ -11,9 +11,13 @@
   <ItemGroup>
     <None Remove="inheritanceExamples\" />
     <None Remove="ConstructorExamples\" />
+    <None Remove="OverloadingExamples\" />
+    <None Remove="OverridingExamples\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="inheritanceExamples\" />
     <Folder Include="ConstructorExamples\" />
+    <Folder Include="OverloadingExamples\" />
+    <Folder Include="OverridingExamples\" />
   </ItemGroup>
 </Project>

@@ -14,16 +14,17 @@ namespace NewProject.ConstructorExamples
         }
 
 
-public static void Main(string[] args)
-        {
-            Student student1 = new Student("Rahul",101);
-            Console.WriteLine("Name--> "+student1.studentName);
-            Console.WriteLine("RollNumber--> "+student1.rollNumber);
+        /*public static void Main(string[] args)
+                {
+                    Student student1 = new Student("Rahul",101);
+                    Console.WriteLine("Name--> "+student1.studentName);
+                    Console.WriteLine("RollNumber--> "+student1.rollNumber);
 
-            Student student2 = new Student("Abhigya",102);
-            Console.WriteLine("Name--> " + student2.studentName);
-            Console.WriteLine("RollNumber--> " + student2.rollNumber);
-        }
+                    Student student2 = new Student("Abhigya",102);
+                    Console.WriteLine("Name--> " + student2.studentName);
+                    Console.WriteLine("RollNumber--> " + student2.rollNumber);
+                }
 
+            }*/
     }
 }
