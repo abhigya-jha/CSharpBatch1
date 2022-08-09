@@ -1,22 +1,29 @@
 ﻿<Properties StartupConfiguration="{83947939-DEB6-4EEA-9ADB-016C6EBAB906}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="NewProject/OverloadingExamples/Child.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SeleniumBasics/SeleniumClass2/collectionExamples/TestExceptionHandling.cs">
     <Files>
-      <File FileName="NewProject/OverloadingExamples/Parent.cs" Line="1" Column="1" />
-      <File FileName="NewProject/OverloadingExamples/Child.cs" Line="11" Column="17" />
+      <File FileName="SeleniumBasics/SeleniumClass2/SliderExample.cs" Line="1" Column="1" />
+      <File FileName="SeleniumBasics/SeleniumClass2/SelectDropDownValue.cs" />
+      <File FileName="SeleniumBasics/SeleniumClass2/FindElementVsElements.cs" />
+      <File FileName="SeleniumBasics/SeleniumClass2/BrowerNavigationCommands.cs" />
+      <File FileName="SeleniumBasics/SeleniumClass2/collectionExamples/TestList.cs" Line="13" Column="10" />
+      <File FileName="SeleniumBasics/SeleniumClass2/FindAllLinks.cs" />
+      <File FileName="SeleniumBasics/SeleniumClass2/MouseHover.cs" />
+      <File FileName="SeleniumBasics/SeleniumClass2/RightClick.cs" />
+      <File FileName="SeleniumBasics/SeleniumClass2/collectionExamples/TestSet.cs" Line="8" Column="11" />
+      <File FileName="SeleniumBasics/SeleniumClass2/collectionExamples/TestDictionary.cs" Line="8" Column="11" />
+      <File FileName="SeleniumBasics/SeleniumClass2/collectionExamples/TestExceptionHandling.cs" Line="15" Column="11" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="CSharpLearning" expanded="True">
-            <Node name="CSharpLearning" expanded="True">
-              <Node name="Vehicle" expanded="True" />
-            </Node>
-            <Node name="NewProject" expanded="True">
-              <Node name="ConstructorExamples" expanded="True" />
-              <Node name="OverloadingExamples" expanded="True">
-                <Node name="Child.cs" selected="True" />
+            <Node name="SeleniumBasics" expanded="True" selected="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="PackageDependencies" expanded="True" />
               </Node>
-              <Node name="OverridingExamples" expanded="True" />
+              <Node name="SeleniumClass2" expanded="True">
+                <Node name="collectionExamples" expanded="True" />
+              </Node>
             </Node>
           </Node>
         </State>

@@ -10,9 +10,9 @@ namespace NewProject.OverloadingExamples
         }
 
 
-        static void Main(string[] args)
+       /* static void Main(string[] args)
         {
             Child c = new Child(100);
-        }
+        }*/
     }
 }

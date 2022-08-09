@@ -13,11 +13,21 @@
     <None Remove="ConstructorExamples\" />
     <None Remove="OverloadingExamples\" />
     <None Remove="OverridingExamples\" />
+    <None Remove="AbstractAndInterface\" />
+    <None Remove="stringclassexamples\" />
+    <None Remove="Selenium.WebDriver" />
+    <None Remove="WebDriverManager" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="inheritanceExamples\" />
     <Folder Include="ConstructorExamples\" />
     <Folder Include="OverloadingExamples\" />
     <Folder Include="OverridingExamples\" />
+    <Folder Include="AbstractAndInterface\" />
+    <Folder Include="stringclassexamples\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Selenium.WebDriver" Version="4.2.0" />
+    <PackageReference Include="WebDriverManager" Version="2.13.0" />
   </ItemGroup>
 </Project>

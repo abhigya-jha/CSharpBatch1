@@ -15,3 +15,10 @@
 /Users/abhigyajha/Projects/CSharpLearning/NewProject/obj/Debug/net5.0/ref/NewProject.dll
 /Users/abhigyajha/Projects/CSharpLearning/NewProject/obj/Debug/net5.0/NewProject.pdb
 /Users/abhigyajha/Projects/CSharpLearning/NewProject/obj/Debug/net5.0/NewProject.genruntimeconfig.cache
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/obj/Debug/net5.0/NewProject.csproj.AssemblyReference.cache
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/bin/Debug/net5.0/AngleSharp.dll
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/bin/Debug/net5.0/Newtonsoft.Json.dll
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/bin/Debug/net5.0/WebDriver.dll
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/bin/Debug/net5.0/ICSharpCode.SharpZipLib.dll
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/bin/Debug/net5.0/WebDriverManager.dll
+/Users/abhigyajha/Projects/CSharpLearning/NewProject/obj/Debug/net5.0/NewProject.csproj.CopyComplete

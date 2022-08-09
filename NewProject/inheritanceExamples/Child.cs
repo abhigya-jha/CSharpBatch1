@@ -1,7 +1,7 @@
 ﻿using System;
 namespace NewProject.inheritanceExamples
 {
-    public class Child : Base
+    public class Child 
     {
 
 
@@ -17,7 +17,7 @@ namespace NewProject.inheritanceExamples
         public void display()
         {
             Console.WriteLine("display method of Child class");
-            base.display();
+            //base.display();
 
 
         }

@@ -15,7 +15,7 @@ namespace NewProject.OverridingExamples
             obj.sound();
         }*/
 
-        public void  sound()
+        public new void  sound()
         {
             Console.WriteLine("woof woof");
             
